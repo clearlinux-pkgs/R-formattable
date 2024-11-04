@@ -4,7 +4,7 @@
 #
 Name     : R-formattable
 Version  : 0.2.1
-Release  : 23
+Release  : 24
 URL      : https://cran.r-project.org/src/contrib/formattable_0.2.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/formattable_0.2.1.tar.gz
 Summary  : Create 'Formattable' Data Structures
